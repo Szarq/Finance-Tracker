@@ -1,0 +1,22 @@
+{
+  "name": "finance-tacker",
+  "version": "1.0.0",
+  "description": "test 1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test1234"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Szarq/Finance-Tracker.git"
+  },
+  "author": "artur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Szarq/Finance-Tracker/issues"
+  },
+  "homepage": "https://github.com/Szarq/Finance-Tracker#readme"
+}
